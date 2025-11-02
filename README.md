@@ -4,38 +4,65 @@
 
 <img align="right" alt="Coding" width="400" src="https://indiancoders.dev/assets/img/coder.gif">
 
-### 👨💻 About Me
-- 🚀 Full-stack developer passionate about clean code and problem-solving
-- 🎓 Creating beginner-friendly programming tutorials and mentorship content
-- 📍 India
-- 📖 Tech Blog: [Latest Articles](#) *(coming soon)*
 
-### 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sandip_Sonawane-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[https://www.linkedin.com/in/]/)
-[![GitHub](https://img.shields.io/badge/GitHub-SandipSonawane-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sandy0358)
-[![Email](https://img.shields.io/badge/Email-sonawanesandip%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sandipsonawane0358@gmail.com)
+# 👋 Hi, I'm Sandip Sonawane
 
-### 🛠️ Tech Stack
-**Core Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+💻 **MERN Stack Developer | 🧑‍🏫 Educator | 🚀 Lifelong Learner**
 
-**Frontend**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-
-**Backend**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-
-### 📚 Latest Educational Content
-- ▶️ [Web Development Basics Series](#)
-- 📝 [Clean Code Principles Cheatsheet](#)
-- 💡 [Common Programming Mistakes Video](#)
+I'm passionate about **building full-stack web applications** and **empowering students** to learn modern technologies.  
+With hands-on experience in the **MERN stack (MongoDB, Express.js, React, Node.js)**, I create scalable and dynamic solutions that bring ideas to life.  
+As an **educator**, I simplify complex programming concepts through projects, tutorials, and open-source contributions.
 
 ---
+
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Code-HTML5-orange?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/Code-CSS3-blue?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Framework-Express.js-black?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Tools-GitHub-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Deploy-Vercel-black?style=for-the-badge&logo=vercel" />
+</p>
+
+---
+
+### 👨‍🏫 What I Do
+- 🧩 Develop full-stack MERN web applications  
+- 🎓 Teach & mentor students in programming and web technologies  
+- 📘 Create educational content, tutorials, and eBooks  
+- 🌱 Continuously learn and explore new tools in web development  
+
+---
+
+### 📚 Featured Projects
+- 🔹 [School Management System (MERN)](https://github.com/yourusername/school-management-system)  
+- 🔹 [Personal Portfolio Website](https://github.com/yourusername/portfolio)  
+- 🔹 [Student Learning Portal](https://github.com/yourusername/learning-portal)
+
+---
+
+### 📫 Connect With Me
+<p align="left">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://sandipsonawane.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" height="150" />
+</p>
+
+---
+
+⭐ **"Code. Teach. Inspire."**
 
 ### 📈 GitHub Stats
 ![Sandip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SandipSonawane&show_icons=true&theme=radical)
