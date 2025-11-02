@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sandip Sonawane
 
-**`Software Developer | Educator | Lifelong Learner`**
+**` 👨‍💻 MERN Stack Developer & Educator | ⚡ Full-stack web apps | 🧑‍🏫 Teaching tech made simple | 🚀 MongoDB • Express • React • Node.js | Software Developer | Educator | Lifelong Learner`**
 
 <img align="right" alt="Coding" width="400" src="https://indiancoders.dev/assets/img/coder.gif">
 
