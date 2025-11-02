@@ -1,9 +1,3 @@
-# 👋 Hi, I'm Sandip Sonawane
-
-**` 👨‍💻 MERN Stack Developer & Educator | ⚡ Full-stack web apps | 🧑‍🏫 Teaching tech made simple | 🚀 MongoDB • Express • React • Node.js | Software Developer | Educator | Lifelong Learner`**
-
-<img align="right" alt="Coding" width="400" src="https://indiancoders.dev/assets/img/coder.gif">
-
 
 # 👋 Hi, I'm Sandip Sonawane
 
@@ -53,6 +47,7 @@ As an **educator**, I simplify complex programming concepts through projects, tu
 </p>
 
 ---
+⭐ **"Code. Teach. Inspire."**
 
 ### 📊 GitHub Stats
 <p align="left">
@@ -61,10 +56,5 @@ As an **educator**, I simplify complex programming concepts through projects, tu
 </p>
 
 ---
-
-⭐ **"Code. Teach. Inspire."**
-
-### 📈 GitHub Stats
-![Sandip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SandipSonawane&show_icons=true&theme=radical)
-
 "*Education is not the filling of a pail, but the lighting of a fire.*" - William Butler Yeats
+
